@@ -1,0 +1,5 @@
+PatientID, Infection, Obesity, Diabetes, Dyslipidemia
+123, 1, 0, 0, 0
+482719, 0, 0, 0, 0
+66666, 0, 0, 0, 1
+234556, 0, 1, 1, 0
